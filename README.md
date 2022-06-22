@@ -14,6 +14,9 @@
 [discord]: https://discord.zelda64.dev
 [discord-badge]: https://img.shields.io/discord/688807550715560050?color=%237289DA&logo=discord&logoColor=%23FFFFFF
 
+## Notice!!
+The Peripheral Module is an [rp2040](https://en.wikipedia.org/wiki/RP2040)-based microcontroller board being worked on privately. This is a port of OoT for that board, so there's not much use for this repo for others until that board is released. 
+
 ```diff
 - WARNING! -
 
